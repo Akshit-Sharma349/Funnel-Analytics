@@ -135,16 +135,16 @@ Funnel-Analytics/
 ## Dashboard Screenshots
 
 ### Executive Summary
-![Executive Summary](screenshots/ExecutiveSummary.png)
+![Executive Summary](screenshots/Executive_Summary.png)
 
 ### Funnel Analysis
-![Funnel Analysis](screenshots/FunnelAnalysis.png)
+![Funnel Analysis](screenshots/Funnel_Analysis.png)
 
 ### Retention & Cohort
-![Retention & Cohort](screenshots/RetentionCohort.png)
+![Retention & Cohort](screenshots/Retention_Analysis.png)
 
 ### User Segmentation
-![User Segmentation](screenshots/UserSegmentation.png)
+![User Segmentation](screenshots/User_Segmentation.png
 
 ---
 
