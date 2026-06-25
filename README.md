@@ -144,7 +144,7 @@ Funnel-Analytics/
 ![Retention & Cohort](screenshots/Retention_Analysis.png)
 
 ### User Segmentation
-![User Segmentation](screenshots/User_Segmentation.png
+![User Segmentation](screenshots/User_Segmentation.png)
 
 ---
 
